@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 ## I'm a **Computer Science Engineer**👨‍💻 from Poznan University of Technology🎓!
 ### 🛠️ I am currently creating pet projects that use the 🧠Neural Networks🧠 I have developed. 
-### 🛠️ I implement trained models into mobile applications written in ⚛React⚛Native⚛. 
+### 🛠️ I implement trained models into mobile applications written in ⚛️React⚛Native⚛️. 
 ### 🛠️ I also use **Django** if the model is too large and needs to be stored on the server🗄️
 ### 🛠️ So I mainly program in **Python**🐍
 ## I not only know Programming Languages, but also know Natural Languages 😎
