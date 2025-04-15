@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ### 🔥 Low-Level Programming 🔟
 ### 🔥 Calisthenics 🤸🏻‍♂️💪🏼
 ### 🔥 Keyboard playing 🎹
+### 🔥 baking Italian Pizza according to the art 🍕🍕
 
 
 I have also programmed in **Java**♨️, **Flutter**📲, and 🇨. My repositories contain everything.
