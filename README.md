@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I'm a **Computer Science Graduate**👨‍💻 from Poznan University of Technology🎓!
-### 🛠️ I am currently creating pet projects that use the 🧠Neural Networks🧠 I have developed. 
-### 🛠️ I implement trained models into mobile applications written in ⚛️React⚛Native⚛️. 
-### 🛠️ I also use **Django** if the model is too large and needs to be stored on the server🗄️
-### 🛠️ So I mainly program in **Python**🐍
-## I not only know Programming Languages, but also know Natural Languages 😎
+### 🛠️ I am currently creating pet projects that use the 🧠Neural Networks🧠 I've built. 
+### 🛠️ I integrate trained models into mobile applications written in ⚛️React⚛Native⚛️. 
+### 🛠️ When models are too large, I use **Django** to serve them on the backend 💾.
+### 🛠️ So my primary programming language is **Python** 🐍.
+## I don’t just know **Programming Languages**, I also understand **Natural Languages** 😎
 ### 🇵🇱🥟 Polish - native language
 ### 🇬🇧🇺🇸 English - B2
 ## But I am also interested in:
